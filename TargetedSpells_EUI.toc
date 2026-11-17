@@ -1,0 +1,8 @@
+## Interface: 16001
+## Title: TargetedSpells EUI Integration
+## Notes: Shows cast-target indicators on EllesmereUI raid frames.
+## Version: 0.2.0
+## Dependencies: EllesmereUIRaidFrames
+## SavedVariables: TargetedSpellsEUISaved
+
+TargetedSpells_EUI.lua
